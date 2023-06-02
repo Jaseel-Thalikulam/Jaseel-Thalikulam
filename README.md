@@ -35,7 +35,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 🔭 I’m currently working on exciting web development projects that challenge me and help me expand my skill set.
 - 🌱 I’m currently learning React.JS to level up my frontend development skills and build more dynamic user interfaces.
 - 🤔 I’m looking for help with staying up-to-date with the latest industry trends and best practices.
-- :mailbox: How to reach me: Feel free to connect with me on [LinkedIn](your-linkedin-url). Let's network and share our knowledge!
+- :mailbox: How to reach me: Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jaseelta/). Let's network and share our knowledge!
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I believe that coding is like magic. We create something out of nothing, and sometimes even manage to fix bugs with a wave of our keyboards. Plus, my code runs on coffee ☕️!
 
