@@ -30,16 +30,19 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-🔭 I’m currently working on exciting web development projects that challenge me and help me expand my skill set.
-🌱 I’m currently learning React.JS to level up my frontend development skills and build more dynamic user interfaces.
-👯 I’m looking to collaborate on open-source projects or any interesting web development initiatives.
-🤔 I’m looking for help with staying up-to-date with the latest industry trends and best practices.
-💬 Ask me about web development technologies, frameworks, or any coding-related queries you may have. I'm here to help!
-:mailbox: How to reach me: Feel free to connect with me on LinkedIn. Let's network and share our knowledge!
-😄 Pronouns: He/Him
-⚡ Fun fact: I believe that coding is like magic. We create something out of nothing, and sometimes even manage to fix bugs with a wave of our keyboards. Plus, my code runs on coffee ☕️!
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+- 🔭 I’m currently working on exciting web development projects that challenge me and help me expand my skill set.
+- 🌱 I’m currently learning React.JS to level up my frontend development skills and build more dynamic user interfaces.
+- 🤔 I’m looking for help with staying up-to-date with the latest industry trends and best practices.
+- :mailbox: How to reach me: Feel free to connect with me on [LinkedIn](your-linkedin-url). Let's network and share our knowledge!
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I believe that coding is like magic. We create something out of nothing, and sometimes even manage to fix bugs with a wave of our keyboards. Plus, my code runs on coffee ☕️!
+
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -58,4 +61,4 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaseel-Thalikulam&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
