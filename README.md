@@ -13,7 +13,7 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/jaseelta/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="[your-youtube-URL](https://www.youtube.com/channel/UCkQPAppzSsjhY7JBZr6uD3Q)">
+  <a href="https://www.youtube.com/channel/UCkQPAppzSsjhY7JBZr6uD3Q">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
 
