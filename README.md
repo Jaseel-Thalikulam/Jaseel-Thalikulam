@@ -30,7 +30,6 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - 🔭 I’m currently working on exciting web development projects that challenge me and help me expand my skill set.
 - 🌱 I’m currently learning React.JS to level up my frontend development skills and build more dynamic user interfaces.
