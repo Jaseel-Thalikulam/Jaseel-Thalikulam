@@ -32,7 +32,6 @@ Here are some ideas to get you started:
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.<br/>
 - 🔭 I’m currently working on exciting web development projects that challenge me and help me expand my skill set.
-- 🌱 I’m currently learning React.JS to level up my frontend development skills and build more dynamic user interfaces.
 - 🤔 I’m looking for help with staying up-to-date with the latest industry trends and best practices.
 - :mailbox:  Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jaseelta/). Let's network and share our knowledge!
 - 😄 Pronouns: He/Him
